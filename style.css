@@ -31,6 +31,16 @@ nav {
 }
 
 button {
+    background-color: darkgoldenrod;
+    border: 3px solid #121212;
+    border-radius: 21px;
+    padding: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+    color: 121212;
+}
+
+button:hover {
     background-color: #121212;
     border: 3px solid darkgoldenrod;
     border-radius: 21px;
@@ -38,16 +48,6 @@ button {
     padding-right: 15px;
     padding-left: 15px;
     color: darkgoldenrod;
-}
-
-button:hover {
-    background-color: darkgoldenrod;
-    border: 3px solid #121212;
-    border-radius: 21px;
-    padding: 10px;
-    padding-right: 15px;
-    padding-left: 15px;
-    color: #121212;
 }
 button:active {
     background-color: rgb(207, 186, 130);
