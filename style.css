@@ -73,3 +73,7 @@ button:active {
     padding-left: 15px;
     color: #121212;
 }
+
+#important-old{
+    color: red;
+}
