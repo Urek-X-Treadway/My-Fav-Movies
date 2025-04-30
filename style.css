@@ -4,9 +4,25 @@ body {
     font-family: 'Century Gothic';
 }
 
-nav {
+img:hover {
+    color: #444;
+    background-color: #444;
+    filter: grayscale(70%);
+
+}
+p:hover {
+    filter: blur(1px);
+}
+
+
+
+nav{
     background-color: #121212;
     text-align: center;
+}
+nav:hover{
+    filter: blur(1px);
+
 }
 
 .movie_container {
@@ -59,7 +75,3 @@ button:active {
     color: #121212;
 }
 
-img:hover {
-    color: #444;
-    background-color: #444;
-}
