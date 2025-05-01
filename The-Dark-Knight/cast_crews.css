@@ -39,6 +39,13 @@ a:link {
     background-color: transparent;
     text-decoration: none;
 }
+a:link:active {
+    color: #c46f19;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+
 
 img{
     width: 289px;
