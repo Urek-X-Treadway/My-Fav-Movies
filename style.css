@@ -4,6 +4,31 @@ body {
     font-family: 'Century Gothic';
 }
 
+
+
+#h2id{
+    text-align: center;
+
+}
+
+
+#pid{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 img:hover {
     color: #444;
     background-color: #444;
