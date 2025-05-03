@@ -75,9 +75,9 @@ button {
     background-color: darkgoldenrod;
     border: 3px solid #121212;
     border-radius: 21px;
-    padding: 10px;
-    padding-right: 15px;
-    padding-left: 15px;
+    padding: 7px;
+    padding-right: 10px;
+    padding-left: 10px;
     color: 121212;
 }
 
@@ -85,18 +85,18 @@ button:hover {
     background-color: #121212;
     border: 3px solid darkgoldenrod;
     border-radius: 21px;
-    padding: 10px;
-    padding-right: 15px;
-    padding-left: 15px;
+    padding: 7px;
+    padding-right: 10px;
+    padding-left: 10px;
     color: darkgoldenrod;
 }
 button:active {
     background-color: rgb(207, 186, 130);
     border: 3px solid #121212;
     border-radius: 21px;
-    padding: 10px;
-    padding-right: 15px;
-    padding-left: 15px;
+    padding: 7px;
+    padding-right: 10px;
+    padding-left: 10px;
     color: #121212;
 }
 
@@ -118,7 +118,7 @@ button:active {
     text-align: center;
     border-radius: 10px;
     padding-bottom: 10px;
-    width: 300px;
+    width: 315px;
 
 }
 
