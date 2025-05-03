@@ -1,7 +1,7 @@
 body {
     background-color: #121212;
     color: darkgoldenrod;
-    font-family: 'Century Gothic';
+    font-family: 'Century Gothic',system-ui;
 }
 
 
@@ -59,7 +59,7 @@ nav h1:hover{
 
 .movie_display {
     background-color: #131111;
-    border: 4px solid rgb(167, 139, 30);
+    border: 2px solid rgb(167, 139, 30);
     margin: 7px;
     text-align: center;
     border-radius: 10px;
@@ -113,7 +113,7 @@ button:active {
 
 .movie_display2 {
     background-color: #131111;
-    border: 4px solid rgb(167, 139, 30);
+    border: 2px solid darkgoldenrod;
     margin: 7px;
     text-align: center;
     border-radius: 10px;
