@@ -1,7 +1,7 @@
 body {
     background-color: #121212;
     color: darkgoldenrod;
-    font-family: 'Century Gothic',system-ui;
+    font-family: 'Hack Nerd Font', 'Trispace', monospace, sans-serif;
 }
 
 
@@ -65,6 +65,7 @@ nav h1:hover{
     border-radius: 10px;
     padding-bottom: 10px;
     width: 270px;
+    font-family: 'Hack Nerd Font', 'Trispace', monospace, sans-serif;
 }
 
 #section_1 {
@@ -119,6 +120,8 @@ button:active {
     border-radius: 10px;
     padding-bottom: 10px;
     width: 315px;
+    font-family: 'Hack Nerd Font', 'Trispace', monospace, sans-serif;
+
 
 }
 
