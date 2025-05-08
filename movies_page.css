@@ -1,7 +1,7 @@
 body {
     background-color: #121212;
     color: darkgoldenrod;
-    font-family: 'Century Gothic';
+    font-family: 'Hack Nerd Font', 'Trispace', monospace, sans-serif;
 }
 
 img{
@@ -50,6 +50,7 @@ nav h1:hover{
     border-radius: 10px;
     padding-bottom: 10px;
     width: 315px;
+    font-family: 'Hack Nerd Font', 'Trispace', monospace, sans-serif;
 }
 
 #section_1 {
@@ -94,6 +95,7 @@ button:active {
     border-radius: 10px;
     width: 1100px;
     padding-top: 3%;
+    font-family: 'Hack Nerd Font', 'Trispace', monospace, sans-serif;
 }
 
 
@@ -112,6 +114,7 @@ button:active {
     height: 1000px;
     padding-left: 3%;
     padding-top: 3%;
+    font-family: 'Hack Nerd Font', 'Trispace', monospace, sans-serif;
 
 }
 
